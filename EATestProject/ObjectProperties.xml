@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Objects>
+	<Object>
+		<objectName>userNameLogin</objectName>
+		<identifier>id</identifier>
+		<value>userName</value>
+	</Object>
+	<Object>
+		<objectName>passwordLogin</objectName>
+		<identifier>id</identifier>
+		<value>password</value>
+	</Object>
+	<Object>
+		<objectName>linkTermsConditions</objectName>
+		<identifier>xpath</identifier>
+		<value>//*[text()='Terms and Conditions']</value>
+	</Object>
+
+	
+
+</Objects>
